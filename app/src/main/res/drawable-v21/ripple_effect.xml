@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This below color is the main effect color-->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:color="@color/colorPrimary">
+    <!--This below color item is used for circle color
+    so that effect of color can't go
+    outside of the single item-->
+    <item android:drawable="@android:color/white" />
+</ripple>
